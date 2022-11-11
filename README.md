@@ -1,1 +1,2 @@
 # amfoss-tasks
+i had a lot of trouble while installing ubuntu. initally i had thought that it would be easy to install ubuntu just by searching it online and then press install. little did i know that i was in whole new world. i had no idea what to do and finally with a help of a friend i realized i had to dual boot it with a pendrive. i had a lot of initial issues when it came and finally i was able to overcome it and install it. 
